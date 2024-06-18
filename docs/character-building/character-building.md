@@ -10,11 +10,11 @@ To get your character set up for the server, have a look at the following tabs:
 
 Understand the rules of D&D, and want to set up your character for Dnd World?
 
-[Start Here](../character-building/start-here.md){: .btn }
+[Start Here](../../docs/character-building/start-here.html){: .btn }
 
 First time playing D&D and need help creating a character?
 
-[New to D&D](../character-building/new-to-dnd.md){: .btn .btn-green }
+[New to D&D](../../docs/character-building/new-to-dnd.html){: .btn .btn-green }
 
 Want to read our server's rules for character creation?
 *Link to CC rules here*

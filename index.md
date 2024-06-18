@@ -33,7 +33,8 @@ You are about to join a homebrew text-only server where you will take on bountie
 
 ## A Few Words
 > - We would appreciate it if you would take the time to read the `#rules` if you haven't already. Every rule is there for a reason.
-> - Please refer to `#character-creation-rules` for accepted books and UA/Homebrew. Our staff team is here to help you should you have any problems or questions along the way, so don't be afraid to ask for help in `#server-questions`
+> - Please refer to `#character-creation-rules` for accepted books and UA/Homebrew. 
+> - Our staff team is here to help you should you have any problems or questions along the way, so don't be afraid to ask for help in `#server-questions`
 
 > - If you don’t think DW is what you are looking for, you may find something that better suits your taste in our `#partner-servers`.
 
