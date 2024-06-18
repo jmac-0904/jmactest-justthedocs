@@ -33,7 +33,7 @@ It is entirely optional to roll for stats/gold/hp. However, once you have made t
 > 
 > You are only permitted one roll per character, and the command will give you stats that are to our server's minimum standard.
 > 
-> {: .warning}
+> {: .important }
 Do not roll stats on DnD Beyond! You cannot use Standard Array/Point Buy after rolling. You can switch to rolling from Standard Array/Point Buy if you are still in the character creation stage.
 
 ### Gold
