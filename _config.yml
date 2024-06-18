@@ -11,7 +11,7 @@ aux_links:
 
 callouts:
   highlight:
-    color: yellow
+    color: blue
   important:
     title: Important
     color: blue
