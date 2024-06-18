@@ -1,8 +1,12 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: DW Guide
+description: Welcome to Dnd World, the largest text-based D&D living world!
 theme: just-the-docs
+color_scheme: dw
 
-url: https://just-the-docs.github.io
+url: https://jmac-0904.github.io/jmactest-justthedocs/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  About Us: https://jmac-0904.github.io/jmactest-justthedocs/ 
+  Character Building:
+    - Start Here: https://jmac-0904.github.io/jmactest-justthedocs/docs/character-building/start-here.html
