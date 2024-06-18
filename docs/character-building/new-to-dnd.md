@@ -9,7 +9,7 @@ nav_order: 2
 ## Step-by-Step: Making your first character on DnD Beyond
 
 ### Getting Started
-> - Make a D&D Beyond account if you don’t already have one: https://www.dndbeyond.com/create-account
+> - Make a D&D Beyond account if you don’t already have one: [https://www.dndbeyond.com/create-account]
 > - Go to "Create a Character"
 > - Choose "Standard" Character Creation Method
 > - Check "Show Help Text". This gives you overview of various D&D concepts that are useful for creating a character.
@@ -20,11 +20,11 @@ nav_order: 2
 
 ### Character Preferences (settings)
 ![](../../images/Y75d0NS.png)
-> - Dice Rolling: Off
+> - **Dice Rolling**: Off
 >   - We use Avrae Discord bot for this, not DnD Beyond
-> - Optional Features: On
-> - Advancement Type: Milestone
-> - Hit Point Type
+> - **Optional Features**: On
+> - **Advancement Type**: Milestone
+> - **Hit Point Type**
 >   - "Fixed" recommended
->   - If you choose "Manual", you MUST make the rolls in ⁠#official-character-rolls channel, NOT in D&D Beyond
-> - Leave the rest of the options as they are. Make sure Character Privacy is set to "Public"
+>   - If you choose "Manual", you MUST make the rolls in `⁠#official-character-rolls`, NOT in D&D Beyond
+> - Leave the rest of the options as they are. Make sure **Character Privacy** is set to "Public"

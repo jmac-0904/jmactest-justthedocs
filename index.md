@@ -39,10 +39,10 @@ You are about to join a homebrew text-only server where you will take on bountie
 
 ## World Setting
 ![](./images/JWLNpOf.jpg)
-You are on the mainland known as Icris. Icris is a fantasy setting with its own pantheon of gods that the people heavily worship and have allocated several large areas of holy lands to. Icris uses a fictional calendar, with the IRL year of 2018 being equivalent to 20X0. The names of months and weeks are otherwise the same. For more lore, visit ⁠lore and our World Anvil page: https://www.worldanvil.com/w/icris-dnd-world
+You are on the mainland known as Icris. Icris is a fantasy setting with its own pantheon of gods that the people heavily worship and have allocated several large areas of holy lands to. Icris uses a fictional calendar, with the IRL year of 2018 being equivalent to 20X0. The names of months and weeks are otherwise the same. For more lore, visit ⁠lore and our World Anvil page: [https://www.worldanvil.com/w/icris-dnd-world]
 
-## Important
-{: .Warning }
+
+{: .warning-title Important}
 No guns or firearm lookalikes exist in this world. No sci-fi, no references to other franchises, no urban technology, no references to events on Earth.
 
 ## Snowhaven, Nanam
@@ -85,3 +85,4 @@ If you want to maintain your docs in the `docs` directory of an existing project
 [Jekyll]: https://jekyllrb.com
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+[]
