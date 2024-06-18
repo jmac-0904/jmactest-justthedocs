@@ -1,7 +1,43 @@
 ---
-title: Home
-layout: home
+layout: default
+title: About Us
+nav_order: 1
+description: "Welcome to DW!"
+permalink: /
 ---
+
+# Welcome Adventurers! 
+
+You are about to join a homebrew text-only server where you will take on bounties West Marches style, meet hundreds of new people, and live out an epic life of an adventurer. 
+
+## Who We Are
+> - The largest text-based D&D living world!
+> - Friendly community that welcomes and teaches newbies
+> - The world is in a homebrew medieval fantasy setting
+> - West Marches style server: There is no set plot, and a party changes for each DM event. However, the games are scheduled and run by multiple volunteer DMs with sign-ups from players
+
+> - Not a voice chat (VC) game server
+> - Not a Looking for Group (LFG) server
+> - Not a shared setting with any partner servers
+> - Not in Forgotten Realms setting
+> - Not affiliated with AL (Adventurer’s League) in any way. No XP can be transferred to/from AL
+
+
+## What We Do
+> - 24/7 Active and family-friendly Roleplays
+> - Games in Live text sessions
+> - Mobile-friendly text games
+> - Google Sheet maps (Not VTTs)
+
+> - No campaigns: We roleplay with our characters living in this world, and play one-shots that your characters join as “bounties”. You do not need to form your own party.
+
+## A Few Words
+> - We would appreciate it if you would take the time to read the `#rules` if you haven't already. Every rule is there for a reason.
+> - Please refer to `#character-creation-rules` for accepted books and UA/Homebrew. Our staff team is here to help you should you have any problems or questions along the way, so don't be afraid to ask for help in `#server-questions`
+
+> - If you don’t think DW is what you are looking for, you may find something that better suits your taste in our `#partner-servers`.
+
+
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 

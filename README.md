@@ -1,4 +1,6 @@
-# just-the-docs-template
+# dw guide
+
+Just a simple READme file, for the DW Guide. Ignore the below text...
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
